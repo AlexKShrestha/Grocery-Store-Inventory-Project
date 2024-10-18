@@ -3,9 +3,9 @@
 Files:
 grocerystore.py - This file contains the a program that a shopper can choose a grocery store, add items to their cart, checkout, or leave. 
 
-before inventory.csv - This is a csv file containing the name, category, quanity, and price of each product in the inventory in the grocery store.
+original grocery store inventory.csv - This is a csv file containing the name, category, quanity, and price of each product in the inventory in the grocery store.
 
-grocery store inventory.csv - This is a csv file containing the remaining products in the grocery store's inventory after a shopper comes. 
+updated grocery store inventory.csv - This is a csv file containing the remaining products in the grocery store's inventory after a shopper comes. 
 
 How to run: The program can be run as a script in the terminal. The name of the program is grocerystore.py
 
